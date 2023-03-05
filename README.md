@@ -28,7 +28,7 @@ Data was inspected, organized, and cleaned in Microsoft Excel before being loade
 
 
 ### This dataset has been visualized as an interactive dashboard in Tableau which can be accessed [here](https://public.tableau.com/views/BellabeatTrackerAnalysis/BellabeatTrackerAnalysis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link).<br><br>
-(![Bellabeat Tracker Analysis](https://user-images.githubusercontent.com/117857989/222955447-10938d21-b897-4bd8-b5f8-c5fa887b28aa.png)
+![Bellabeat Tracker Analysis](https://user-images.githubusercontent.com/117857989/222955447-10938d21-b897-4bd8-b5f8-c5fa887b28aa.png)
 
 ## Analysis
 For the purposes of this analysis, the question of searching for trends across the user base is extremely broad: this warrants more discussion of the stakeholder's goals and interests. However, for now, there are a number of interesting data points here. For example, in the daily data we can look at the date, total steps, total distance, distance over activity type, minutes of activity type, calories burned, minutes asleep, and minutes in bed. Some further questions I'll try to answer in regards to everyday use of the fitness tracker are: <br> <br>
